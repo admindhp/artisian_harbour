@@ -17,7 +17,7 @@ class _HomescreenState extends State<Homescreen> {
 
   // List of pages corresponding to each item in bottom navigation
   final List<Widget> _pages = [
-    Homepage(),
+    HomePage(),
     Center(child: Text('Search Page')),
     Center(child: Text('Cart')),
     ChatPage(),

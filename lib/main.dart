@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colours.blue),
         useMaterial3: true,
       ),
-      initialRoute: '/login', // Set initial route
+      initialRoute: '/home', // Set initial route
       getPages: [
         GetPage(name: '/login', page: () => LoginPage()), // Define the login route
         GetPage(name: '/home', page: () => Homescreen()), // Define the home route
