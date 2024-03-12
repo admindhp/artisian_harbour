@@ -1,7 +1,7 @@
-import 'package:artisian_harbour/Presentation/Screens/Homescreen.dart';
+import 'package:artisian_harbour/Presentation/Homescreen.dart';
 import 'package:flutter/material.dart';
 import 'package:artisian_harbour/Constants/Colours.dart';
-import 'package:artisian_harbour/Presentation/Screens/Login.dart';
+import 'package:artisian_harbour/Presentation/Login.dart';
 import 'package:get/get.dart';
 
 void main() {

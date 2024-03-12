@@ -1,6 +1,6 @@
 import 'package:artisian_harbour/Constants/Colours.dart';
-import 'package:artisian_harbour/Presentation/Screens/Artisian.dart';
-import 'package:artisian_harbour/Presentation/Screens/Productpage.dart';
+import 'package:artisian_harbour/Presentation/Artisian.dart';
+import 'package:artisian_harbour/Presentation/Productpage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
